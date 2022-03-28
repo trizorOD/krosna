@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Notification for Telegram\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-26 08:38+0000\n"
+"PO-Revision-Date: 2022-01-26 08:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.7; wp-5.9\n"
+"X-Domain: notification-for-telegram"
+
+#. Author of the plugin
+msgid "Andrea Marinucci"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:449
+msgid "Billing info"
+msgstr ""
+
+#: include/nftb_optionpage.php:1161
+msgid "Choose an interval and press <b>set button</b> to activate the cron"
+msgstr ""
+
+#: include/nftb_optionpage.php:1000
+msgid "Choose the appropriate hook  to fire notification."
+msgstr ""
+
+#: include/nftb_optionpage.php:968
+msgid ""
+"Create a input field in wc check-out page for Telegram nickname. (not "
+"required)"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:482
+msgid "Customers Telegram"
+msgstr ""
+
+#: include/nftb_optionpage.php:1157
+msgid "DAILY"
+msgstr ""
+
+#: include/nftb_optionpage.php:1173
+msgid "Delete & Clean Telegram Cronjob "
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:567
+msgid "Delete cron"
+msgstr ""
+
+#: include/nftb_optionpage.php:884
+msgid "Enable nofication on succes login "
+msgstr ""
+
+#: include/nftb_optionpage.php:893 include/nftb_optionpage.php:909
+msgid "Enable nofications"
+msgstr ""
+
+#: include/nftb_optionpage.php:786
+msgid "Enable nofications for new post pending"
+msgstr ""
+
+#: include/nftb_optionpage.php:794
+msgid "Enable nofications in Contact Form 7"
+msgstr ""
+
+#: include/nftb_optionpage.php:810
+msgid "Enable nofications in Ninjaform"
+msgstr ""
+
+#: include/nftb_optionpage.php:825
+msgid "Enable nofications in Wpform"
+msgstr ""
+
+#: include/nftb_optionpage.php:1115
+msgid "Enable nofications on new items in cart"
+msgstr ""
+
+#: include/nftb_optionpage.php:955
+msgid "Enable nofications on new Orders"
+msgstr ""
+
+#: include/nftb_optionpage.php:1093
+msgid "Enable nofications when a product is low stock conditions"
+msgstr ""
+
+#: include/nftb_optionpage.php:1078
+msgid "Enable nofications when any order status changes"
+msgstr ""
+
+#: include/nftb_optionpage.php:839
+msgid "Enable nofications when New User Registers"
+msgstr ""
+
+#: include/nftb_optionpage.php:847
+msgid "Enable nofications when user login fails"
+msgstr ""
+
+#: include/nftb_optionpage.php:998
+msgid "Fired on payment_complete (hook: woocommerce_payment_complete)"
+msgstr ""
+
+#: include/nftb_optionpage.php:997
+msgid "Fired on Thank you order page (hook: woocommerce_thankyou)"
+msgstr ""
+
+#: include/nftb_optionpage.php:738
+msgid "How get your Chatid"
+msgstr ""
+
+#: include/nftb_optionpage.php:730
+msgid "How get your Token"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.reggae.it/my-wordpress-plugins"
+msgstr ""
+
+#: include/tnfunction.php:377
+msgid ""
+"I'm really 😋 happy you are using my plugin !! 🙏\n"
+"If you have time remember to Rate me on wordpress rep ! !! 🙌 "
+msgstr ""
+
+#: include/nftb_optionpage.php:75
+msgid "If you like this free plug-in support the developer !!"
+msgstr ""
+
+#: include/nftb_optionpage.php:1026
+msgid "Include Billing info in message"
+msgstr ""
+
+#: include/nftb_optionpage.php:1053
+msgid "Include Phone in message"
+msgstr ""
+
+#: include/nftb_optionpage.php:1039
+msgid "Include Shipping info in message"
+msgstr ""
+
+#: include/nftb_optionpage.php:1013
+msgid "Include tax in product price"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:490
+msgid "Info text in checkout page"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:508
+msgid "Low Stock Product"
+msgstr ""
+
+#: include/nftb_optionpage.php:899 include/nftb_optionpage.php:915
+msgid ""
+"MC4WP: Mailchimp Plugin not Active or not Installed ! install <a "
+"href=\"https://wordpress.org/plugins/mailchimp-for-wp/\" target=\"_blank\" >"
+"Now</a> "
+msgstr ""
+
+#: include/nftb_optionpage.php:1159
+msgid "MONTHLY"
+msgstr ""
+
+#: include/tnfunction.php:249
+msgid "New Mailchimp subscribed : "
+msgstr ""
+
+#: include/tnfunction.php:269
+msgid "New Mailchimp Unsubscribed : "
+msgstr ""
+
+#. Name of the plugin
+msgid "Notification for Telegram"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:287
+msgid "Notify Contact Form 7"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:270
+msgid "Notify New Post"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:296
+msgid "Notify Ninja Form"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:304
+msgid "Notify WpForm"
+msgstr ""
+
+#: include/nftb_optionpage.php:1156
+msgid "ONE HOUR"
+msgstr ""
+
+#: include/nftb_optionpage.php:1155
+msgid "ONE MINUTE"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:432
+msgid "Order message trigger "
+msgstr ""
+
+#: include/nftb_optionpage.php:800 include/nftb_optionpage.php:816
+#: include/nftb_optionpage.php:831 include/nftb_optionpage.php:935
+#: include/nftb_optionpage.php:960 include/nftb_optionpage.php:973
+#: include/nftb_optionpage.php:1018 include/nftb_optionpage.php:1031
+#: include/nftb_optionpage.php:1044 include/nftb_optionpage.php:1058
+#: include/nftb_optionpage.php:1069 include/nftb_optionpage.php:1084
+#: include/nftb_optionpage.php:1099 include/nftb_optionpage.php:1121
+msgid "Plug not Active or Installed"
+msgstr ""
+
+#: include/tnfunction.php:367
+msgid "Rate this Plugin !"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:556
+msgid "Reapeat every"
+msgstr ""
+
+#. Description of the plugin
+msgid "Receive notification in Telegram from wordpress"
+msgstr ""
+
+#: include/nftb_optionpage.php:930
+msgid ""
+"Replace global configuration chatid for all woocommerce notifications with "
+"these (if blank we use global configuration)  "
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:217
+msgid "Say Something to the people"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:352
+msgid ""
+"Send a notification also for succes login (User Login Fail must be active)"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:371
+msgid "Send a notification when new user sunscribes to mailchimp"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:379
+msgid "Send a notification when new user Unsubscribes from mailchimp"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:545
+msgid "Send me a regular message about core and plug update"
+msgstr ""
+
+#: include/nftb_optionpage.php:1160
+msgid "SET INTERVAL"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:457
+msgid "Shipping info"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:343
+msgid "Show clear login password in message (User Login Fail must be active)"
+msgstr ""
+
+#: include/nftb_optionpage.php:856
+msgid "Show Clear password in message"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:441
+msgid "Show prices including tax "
+msgstr ""
+
+#: include/nftb_optionpage.php:769
+msgid "TEST"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:227
+msgid "Test if Token and Chatis works"
+msgstr ""
+
+#: include/nftb_optionpage.php:1064
+msgid "Text info above the telegram inputbox in check-out page"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:334
+msgid "User Login Fail"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:321
+msgid "User Registration"
+msgstr ""
+
+#: include/nftb_optionpage.php:1158
+msgid "WEEKLY"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:517
+msgid "Woocommerce cart items"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:422
+msgid "Woocommerce orders"
+msgstr ""
+
+#. id
+#: include/nftb_optionpage.php:499
+msgid "Woocommerce orders change status"
+msgstr ""
+
+#: include/nftb_optionpage.php:759
+msgid "Write a message to the Chatids"
+msgstr ""
